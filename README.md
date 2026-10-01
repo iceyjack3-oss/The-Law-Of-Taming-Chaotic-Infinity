@@ -1,8 +1,4 @@
-
-
-================================================================================
-                       THE LAW OF TAMING CHAOTIC INFINITY
-================================================================================
+# The Law Of Taming Chaotic Infinity
 
 For nearly a century, humanity has looked at chaotic numbers—like the ones found 
 in the famous Collatz 3n + 1 puzzle—as if they were wild, untamable animals. The 
