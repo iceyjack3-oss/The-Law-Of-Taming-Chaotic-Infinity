@@ -1,4 +1,4 @@
-# The Law Of Taming Chaotic InFLAWLE
+# The Law Of Taming Chaotic Infinity
 
 --------------------------------------------------------------------------------
 1. THE TWO-TIERED SYSTEM RULES
