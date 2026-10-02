@@ -17,8 +17,7 @@ number by 2 (a bitwise right-shift). This guarantees an immediate, strict drop
 in data volume.
 
 [ZONE 2: THE LARGE SCALE ERASURE MATRIX] (For inputs where L > 8 bits)
-For large, highly volatile data streams, the system runs a continuous three-beat 
-cycle that crushes expansion:
+For large, highly volatile data streams,it runs 3continuoust cycles to crush expansion:
 
   • Beat 1 (Acceleration): The number runs through the traditional 3n + 1 step, 
     shifting bits over and generating a chaotic rush of active signals. This 
@@ -41,11 +40,8 @@ cycle that crushes expansion:
 
 --------------------------------------------------------------------------------
 2. THE UNIVERSAL FORMULATIONS
---------------------------------------------------------------------------------
-
-To express this system as a strict mathematical law that anyone can understand 
-without reading source code, the entire piecewise process is condensed into 
-two clean, elegant formulas:
+--------------------------------------------------------------------------------T
+The Mathematical Formula:
 
                  /  n >> 1                                           if L ≤ 8
     T_M(n)  =   <
@@ -61,8 +57,7 @@ two clean, elegant formulas:
 3. WHY THE PROOF IS FLAWLESS
 --------------------------------------------------------------------------------
 
-The reason this system is completely bulletproof comes down to absolute 
-containment. The mathematical change in the size of the number (ΔL) is defined 
+The reason this is completely bulletproof, The mathematical change in the size of the number (ΔL) is defined 
 by a simple, scaling energy balance ledger: 
 
                  Net Bit Change = Generated Bits − Destroyed Bits
